@@ -43,10 +43,9 @@ ul {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  border: 1;
+  border: 1px solid black;
 }
 
 .about {
   background-color: black;
-
 }
